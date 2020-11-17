@@ -1,0 +1,15 @@
+We've gotten a lot of questions about whether this course teaches TensorFlow 2.0 or 1.x.
+
+The answer is: Both!
+
+We've designed the curriculum for the early modules in this course to have code that's generic
+enough that it works with both versions, so you are welcome to try it with the 2.0 alpha. If you
+are using the colabs, you'll use the latest version of TensorFlow that Google Colaboratory supports,
+which, at time of writing is 1.13. You can replace this with 2.0 by adding a codeblock containing:
+
+!pip install tensorflow==2.0.0-alpha0 
+
+...and you should be able to use TF2.0 alpha if you like!
+Later modules may use specific versions of libraries, some of which may require TF2.0, and we will
+note them when you get there!
+

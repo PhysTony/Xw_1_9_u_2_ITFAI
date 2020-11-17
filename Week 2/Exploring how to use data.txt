@@ -1,0 +1,5 @@
+Machine Learning depends on having good data to train a system with. In this video you saw a scena-
+rio for training a system to recognize fashion images. The data comes from a dataset called Fashion
+MNIST, and you can learn more about it and explore it in GitHub here
+(https://github.com/zalandoresearch/fashion-mnist).
+In the next video, you’ll see how to load that data and prepare it for training.
